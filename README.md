@@ -18,5 +18,5 @@
 * 💳 Premium Features → Payment gateway unlocks private encrypted rooms and advanced AI support. 
 
 **Folders**
-* `fe` for Frontend
-* `be` for Backend  
+* `frontend` for Frontend
+* `backend` for Backend  
