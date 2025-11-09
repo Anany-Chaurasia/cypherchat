@@ -14,3 +14,6 @@ Thumbs.db
 # Ignore all Nix shells
 shell.nix
 *.nix
+
+#extras
+rough.txt
